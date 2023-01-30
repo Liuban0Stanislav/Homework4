@@ -123,6 +123,5 @@ public class Main {
             rez = three;
         }
         System.out.println("Большее из трех чисел - " + rez);
-        System.out.println();
     }
 }
